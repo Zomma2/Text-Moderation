@@ -1,0 +1,2 @@
+# Text-Moderation
+The objective of text moderation model is to detect any text that contains curse words or inappropriate content (e.g., Hateful speech, violence). The model is based on BERT (Bidirectional Encoder Representations from Transformers) which is a Google AI Language research paper that introduces a bidirectional training of transformers that enable transfer learning for different NLP (Natural language processing) tasks. More Info can be found on pdf 
