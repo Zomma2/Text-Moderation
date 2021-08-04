@@ -10,5 +10,5 @@ Developed by :
 Python 
 Tensorflow 
 -------
-Developen on :
+Developed on :
 Google Colab by TPUs
